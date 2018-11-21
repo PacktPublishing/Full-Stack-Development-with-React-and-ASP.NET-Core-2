@@ -1,5 +1,5 @@
 # Full Stack Development with React and ASP.NET Core 2
-This is the code repository for [Learning Vue.js 2.0 [Video]](https://www.packtpub.com/web-development/full-stack-development-react-and-aspnet-core-2-video), published by [Packt](https://www.packtpub.com/?utm_source=github). It contains all the supporting project files necessary to work through the video course from start to finish.
+This is the code repository for [Full Stack Development with React and ASP.NET Core 2 [Video]](https://www.packtpub.com/web-development/full-stack-development-react-and-aspnet-core-2-video), published by [Packt](https://www.packtpub.com/?utm_source=github). It contains all the supporting project files necessary to work through the video course from start to finish.
 ## About the Video Course
 		ASP.NET Core 2 is a relatively new, and very powerful tool for creating websites that will serve your customers well. Combine that with the power of React and other tools such as SignalR, Entity Framework, Redux, and TypeScript and you will be able to create incredible websites with powerful functionality that your customers will absolutely love.
 In this video course, you will start off with a simple website that uses React and ASP.NET Core. As the course progresses we will add even more power to the site with Entity Framework, SignalR, Web API, and Redux. 
